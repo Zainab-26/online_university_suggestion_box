@@ -1,0 +1,95 @@
+#idea, #dates
+{
+    margin-left:26%;
+    width:50%;
+}
+
+#view_idea
+{
+    margin-left:23%;
+    margin-top: 5%;
+    width:50%;
+}
+
+.react
+{
+    text-decoration: none;
+    color: rgb(236, 111, 205);
+}
+
+.center-align
+{
+    text-align: center;
+}
+
+.form-check-input[type="checkbox"], .form-check-label {
+    display: inline-block;
+    width: auto;
+}
+
+.posts-wrapper {
+    width: 50%;
+    margin: 20px auto;
+    border: 1px solid #eee;
+  }
+  .post {
+    width: 90%;
+    margin: 20px auto;
+    padding: 10px 5px 0px 5px;
+    border: 1px solid green;
+  }
+  .post-info {
+    margin: 10px auto 0px;
+    padding: 5px;
+  }
+  .fa {
+    font-size: 1.2em;
+  }
+  .fa-thumbs-down, .fa-thumbs-o-down {
+    transform:rotateY(180deg);
+  }
+  .logged_in_user {
+    padding: 10px 30px 0px;
+  }
+  i {
+    color: blue;
+  }
+
+/* #doughnut-chart-container {
+    position: relative;
+    height: 400px;
+    width: 50%;
+    float: right;
+} */
+
+#chart-container, #doughnut-chart-container{
+  width: 60%;
+  height: 60%
+}
+
+.pagination{
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media screen and (min-width: 480px) {
+  #chart-container, #doughnut-chart-container{width: 500px}
+}
+
+.margin-bottom
+{
+  margin-bottom: 1%;
+}
+
+.margin-top
+{
+  margin-top: 1%;
+}
+
+.toggled {
+  width: 0;
+}
+
+.toggle {
+  width: 0;
+}

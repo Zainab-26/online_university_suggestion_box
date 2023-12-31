@@ -1,0 +1,10 @@
+Idea_ID,User_ID,Category_ID,Department_ID,Idea_Title,Idea_Description,File,Is_anonymous,Date_posted,Vote_count,Average_rating,View_count
+4,2748726,3,1,Something,"Something else else",,Yes,"2023-05-15 10:10:11",1,-1,0
+5,2748726,7,1,Something,"Something else else else else",,Yes,"2023-05-15 10:11:16",1,-1,0
+6,2748726,3,1,Something,Something,,No,"2023-05-15 10:11:44",,,1
+7,2748726,7,1,Something,"Something else else else",,No,"2023-05-15 10:12:14",1,-1,0
+8,2748726,2,1,Something,"Another idea",,No,"2023-05-15 10:16:03",,,1
+9,2748726,2,1,Something,"Something else else zzz",../PDF_Uploads/FINAL_GROUP_REPORT_EWSD.pdf,No,"2023-05-20 03:10:58",0,,
+10,2748726,3,1,Something,"We should have daily meetings for something important zzzz","../PDF_Uploads/COMP1649_Human Computer Interaction and Design.pdf",No,"2023-05-21 08:06:03",0,,
+13,629932730,3,2,"A new idea","This is a new idea being posted by Max","../PDF_Uploads/BILLING DOC.pdf",No,"2023-05-22 06:16:06",0,,
+14,629932730,2,2,"A new idea","We should have daily meetings for something important by Max","../PDF_Uploads/001278038_COMP1787_Zainab Ismail Patel.pdf",Yes,"2023-05-22 06:17:03",1,1,
